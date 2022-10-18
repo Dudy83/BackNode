@@ -23343,8 +23343,8 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    API_URL: 'http://localhost:1338/api',
-    URL: 'http://localhost:1338/#'
+    API_URL: 'https://admin.metacodeshare.com/api',
+    URL: 'https://admin.metacodeshare.com/#'
 };
 /*
  * For easier debugging in development mode, you can import the following file
